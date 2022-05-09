@@ -1,2 +1,2 @@
 # backgroundimagesize
-Background image-size  cover and conitain
+Background image-size  cover and contain
