@@ -7,16 +7,17 @@
 
 header.banner .bg {
   background-image: url('./assets/img/tree.webp');
-  background-size:cover;
+  background-size: cover;
   height: 100vh;
   position: relative;
 }
-h1{
+
+h1 {
   padding: 50px 0px 20px;
   font-weight: 200rem;
 }
 
-input{
+input {
 
 
   width: 150px;
@@ -25,14 +26,16 @@ input{
   margin: 20px 50px;
 
 }
-footer{
+
+footer {
   align-items: center;
   align-content: center;
   position: fixed;
-  bottom:0 ; 
+  bottom: 0;
   left: 30%;
   margin-bottom: 50px;
 }
-footer :first-child:active{
+
+footer :first-child:active {
   background-color: rgb(48, 21, 74);
 }
